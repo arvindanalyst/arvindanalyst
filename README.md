@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m **Arvind Gupta**, a passionate **Data Analys
 - 👯 **I’m looking to collaborate on:** Open-source projects in data analysis, visualization, and machine learning.  
 - 🤔 **I’m looking for help with:** Best practices in scalable ETL pipelines and big data processing.  
 - 💬 **Ask me about:** Data analytics, Power BI, SQL, or transitioning into a data-driven role.  
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/arvindanalyst) | [Email](mailto:arvindanalyst@gmail.com)  
+- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/arvind-gupta-8398b7171) | [Email](mailto:arvindgupta8787@gmail.com)  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I led my university's cricket team and secured a top 100 rank in a global coding competition!  
 
