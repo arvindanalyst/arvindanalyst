@@ -16,7 +16,9 @@ Welcome to my GitHub profile! I’m **Arvind Gupta**, a passionate **Data Analys
 - 💬 **Ask me about:** Data analytics, Power BI, SQL, or transitioning into a data-driven role.  
 - 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/arvind-gupta-8398b7171) | [Email](mailto:arvindgupta8787@gmail.com)  
 - 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** I led my university's cricket team and secured a top 100 rank in a global coding competition!  
+- ⚡ **Fun fact:** I led my university's cricket team and 1st Rank in Science Exhibition 
+'Smoking Kills' Project Secured 1st rank out of 3,000 participants in a
+ prestigious Science Exhibition.!  
 
 ---
 
