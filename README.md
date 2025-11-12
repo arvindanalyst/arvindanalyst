@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I’m **Arvind Gupta**, a passionate **Data Analys
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I led my university's cricket team and 1st Rank in Science Exhibition 
 'Smoking Kills' Project Secured 1st rank out of 3,000 participants in a
- prestigious Science Exhibition.!  
+ prestigious Science Exhibition!  
 
 ---
 
